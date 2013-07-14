@@ -1,0 +1,14 @@
+// A sample Modfile
+// More info at https://github.com/modulejs/modjs/
+
+module.exports = {
+    plugins: {
+        "jade": "../index.js"
+    },
+    tasks: {
+        "jade": {
+            src: "test.jade",
+            dest: "test.html"
+        }
+    }
+};

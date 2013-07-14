@@ -1,0 +1,36 @@
+{
+    "name": "mod-jade",
+    "description": "Compile Jade files to HTML",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/jade",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/jade.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/jade/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/jade/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+        "jade": "*"
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}
